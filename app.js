@@ -46,8 +46,8 @@ const providers = [
     email: "aromerohodge@gmail.com",
     phone: "+56 9 6844 4304",
     prevision: "Fonasa - Particular",
-    logo: "assets/providers/centro_clinico_santiago/logo_ccsgto.png",
-    cover: "assets/providers/centro_clinico_santiago/portada_1.png"
+    logo: "https://res.cloudinary.com/gmtatwlw/image/upload/v1784734206/logo_ccsgto_ctrk9d.png",
+    cover: "https://res.cloudinary.com/gmtatwlw/image/upload/v1784734207/portada_1_vazh3v.png"
   },
   {
     id: 2,
@@ -58,8 +58,8 @@ const providers = [
     email: "admin@soroa.cl",
     phone: "+56 9 3221 8393",
     prevision: "Particular - Boleta para reembolso",
-    logo: "assets/providers/soroa/logo_soroa.png",
-    cover: "assets/providers/soroa/cover_soroa.png"
+    logo: "https://res.cloudinary.com/gmtatwlw/image/upload/v1784734462/logo_soroa_yplpvn.png",
+    cover: "https://res.cloudinary.com/gmtatwlw/image/upload/v1784734462/cover_soroa_g8xcsh.png"
   },
   {
     id: 3,
@@ -70,8 +70,8 @@ const providers = [
     email: "katherine.pardo@novovision.cl",
     phone: "+56 9 5234 8829",
     prevision: "Atención gratuita con derivación",
-    logo: "assets/providers/novovision/logo_novovision.png",
-    cover: "assets/providers/novovision/cover_novovision.png"
+    logo: "https://res.cloudinary.com/gmtatwlw/image/upload/v1784734321/logo_novovision_mn5xyq.png",
+    cover: "https://res.cloudinary.com/gmtatwlw/image/upload/v1784734322/cover_novovision_popijo.png"
   },
   {
     id: 4,
@@ -82,8 +82,8 @@ const providers = [
     email: "nutribelife@gmail.com",
     phone: "+56 9 3221 8910",
     prevision: "Fonasa - Particular",
-    logo: "assets/providers/nutribelife/nutribelife_logo.png",
-    cover: "assets/providers/nutribelife/cover_nutribelife.png"
+    logo: "https://res.cloudinary.com/gmtatwlw/image/upload/v1784734385/nutribelife_logo_yoj5sw.png",
+    cover: "https://res.cloudinary.com/gmtatwlw/image/upload/v1784734385/cover_nutribelife_za1c2f.png"
   },
   {
     id: 5,
@@ -94,8 +94,8 @@ const providers = [
     email: "munir@clinicanomade.cl",
     phone: "+56 9 7631 5819",
     prevision: "",
-    logo: "assets/providers/santablanca/santa_blanca_logo.png",
-    cover: "assets/providers/santablanca/santablanca_cover.jpg"
+    logo: "https://res.cloudinary.com/gmtatwlw/image/upload/v1784734431/santa_blanca_logo_ukgolz.png",
+    cover: "https://res.cloudinary.com/gmtatwlw/image/upload/v1784734432/santablanca_cover_i3b8an.webp"
   }
 ];
 
